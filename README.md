@@ -1,4 +1,4 @@
-the-outcast
+Đại Du Liệt Truyện
 ===========
 
-2D side scroller game
+Game nhập vai hành động 2D góc nhìn isometric
